@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: d516d9a8a56cc4c6ab84b7732ccff46d
+  - enabled: 1
+    path: Assets/LevelFinder.unity
+    guid: 9c824638fbfa9416fa7bbfc9c76eaee9
+  - enabled: 1
+    path: Assets/Scene Air.unity
+    guid: 2a55255be48384aae8d70a57dd7a3008
+  - enabled: 1
+    path: Assets/WaterWorld.unity
+    guid: 3e2411a239b764710b1efd421306081f
+  - enabled: 1
+    path: Assets/Mars.unity
+    guid: 3f7be57cac23e478ea55398366852751
+  - enabled: 1
+    path: Assets/SampleScenes/Scenes/AircraftJetAI.unity
+    guid: 363861c29c39f0e4bb36d75975950302
